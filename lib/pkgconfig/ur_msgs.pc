@@ -1,0 +1,8 @@
+prefix=/home/cs/robot_sim/manip_ws/install
+
+Name: ur_msgs
+Description: Description of ur_msgs
+Version: 1.2.1
+Cflags: -I/home/cs/robot_sim/manip_ws/install/include
+Libs: -L/home/cs/robot_sim/manip_ws/install/lib 
+Requires: message_runtime std_msgs

@@ -1,0 +1,8 @@
+prefix=/home/cs/robot_sim/manip_ws/install
+
+Name: sns_ik_lib
+Description: Description of sns_ik_lib
+Version: 0.2.3
+Cflags: -I/home/cs/robot_sim/manip_ws/install/include -I/usr/include/eigen3 -I/opt/ros/kinetic/include
+Libs: -L/home/cs/robot_sim/manip_ws/install/lib -lsns_ik /opt/ros/kinetic/lib/liborocos-kdl.so.1.3.0
+Requires: roscpp std_msgs

@@ -1,0 +1,8 @@
+prefix=/home/cs/robot_sim/manip_ws/install
+
+Name: sawyer_description
+Description: Description of sawyer_description
+Version: 5.3.0
+Cflags: 
+Libs: -L/home/cs/robot_sim/manip_ws/install/lib 
+Requires: 

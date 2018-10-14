@@ -1,0 +1,8 @@
+prefix=/home/cs/robot_sim/manip_ws/install
+
+Name: pr2_gripper_action
+Description: Description of pr2_gripper_action
+Version: 1.10.14
+Cflags: 
+Libs: -L/home/cs/robot_sim/manip_ws/install/lib 
+Requires: 

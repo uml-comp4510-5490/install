@@ -1,0 +1,8 @@
+prefix=/home/cs/robot_sim/manip_ws/install
+
+Name: sawyer_gazebo
+Description: Description of sawyer_gazebo
+Version: 5.3.0
+Cflags: -I/home/cs/robot_sim/manip_ws/install/include
+Libs: -L/home/cs/robot_sim/manip_ws/install/lib -lsawyer_robot_hw_sim
+Requires: sawyer_hardware_interface gazebo_ros_control image_transport intera_core_msgs realtime_tools roscpp kdl_parser tf_conversions sns_ik_lib

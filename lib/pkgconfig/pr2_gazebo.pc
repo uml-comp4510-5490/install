@@ -1,0 +1,8 @@
+prefix=/home/cs/robot_sim/manip_ws/install
+
+Name: pr2_gazebo
+Description: Description of pr2_gazebo
+Version: 2.0.11
+Cflags: 
+Libs: -L/home/cs/robot_sim/manip_ws/install/lib 
+Requires: 

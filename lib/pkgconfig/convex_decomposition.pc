@@ -1,0 +1,8 @@
+prefix=/home/cs/robot_sim/manip_ws/install
+
+Name: convex_decomposition
+Description: Description of convex_decomposition
+Version: 0.1.11
+Cflags: 
+Libs: -L/home/cs/robot_sim/manip_ws/install/lib 
+Requires: 
